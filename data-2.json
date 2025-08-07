@@ -1,0 +1,19 @@
+{
+  "device_id": "sensor-mk763",
+  "timestamp": 1659888602000,
+  "sensor_data": [
+    {
+      "sensor_type": "temperature",
+      "reading_value": 36.9
+    },
+    {
+      "sensor_type": "humidity",
+      "reading_value": 71
+    },
+    {
+      "sensor_type": "pressure",
+      "reading_value": 1012.8
+    }
+  ],
+  "status": "operational"
+}

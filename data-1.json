@@ -1,0 +1,19 @@
+{
+  "deviceId": "sensor-ig238",
+  "timestamp": "2025-08-07T15:10:02Z",
+  "sensorData": [
+    {
+      "sensorType": "temperature",
+      "value": 42.3
+    },
+    {
+      "sensorType": "humidity",
+      "value": 68
+    },
+    {
+      "sensorType": "pressure",
+      "value": 1013.25
+    }
+  ],
+  "status": "operational"
+}
